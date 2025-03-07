@@ -1,0 +1,3 @@
+[submodule "algorithms-data-structure"]
+	path = algorithms-data-structure
+	url = git@github.com:thealexcesar/algorithms-data-structure.git
