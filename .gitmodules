@@ -1,3 +1,6 @@
 [submodule "algorithms-data-structure"]
 	path = algorithms-data-structure
 	url = git@github.com:thealexcesar/algorithms-data-structure.git
+[submodule "basic-programming"]
+	path = basic-programming
+	url = git@github.com:thealexcesar/basic-programming.git
